@@ -1,2 +1,2 @@
 # MOMDetails
-To  track Action Items  and status call   on the Daily  basis against all developers,organisers.
+To  track the   Action Items  on each  employers and update the  detils in  tracker on daily basis.
